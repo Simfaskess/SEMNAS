@@ -97,23 +97,28 @@
 .info-panel img {
     margin-right: 20px;
     border-radius: 50%;
-    margin-top: 20px;
+  
+  
 }
 .info-panel h5 {
     text-transform: uppercase;
     font-weight: bold;
-    margin-top: 5px;
+   
 }
 .info-panel h4 {
-    margin-top: 5px;
-    font-size: 14px;
+ 
+    font-size: 12px;
     font-family: 'Poppins', sans-serif;
     color: #09275e;
 }
-.info-panel p {
+.info-panel .lol{
+    font-size: 11px;
     font-weight: 300;
     color: rgb(145, 145, 145);
+
 }
+
+
 /*Info Panel about*/
 .info-panell {
     box-shadow: 0 3px 20px rgba(0,0,0,0.5);
@@ -285,4 +290,11 @@
 .carousel-inner img {
     height: 700px;
 }
+.info-panel .lol{
+    font-size: 9px;
+    font-weight: 300;
+    color: rgb(145, 145, 145);
+
+}
+
 }
