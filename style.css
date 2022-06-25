@@ -104,8 +104,15 @@
     font-weight: bold;
     margin-top: 5px;
 }
+.info-panel h4 {
+    margin-top: 5px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: #09275e;
+}
 .info-panel p {
     font-weight: 300;
+    color: rgb(145, 145, 145);
 }
 /*Info Panel about*/
 .info-panell {
@@ -133,6 +140,7 @@
     margin-top: 20px;
     text-align: center;
     font-size:small;
+    font-family: 'Poppins', sans-serif;
 }
 .tek {
     font-size: 15px;
