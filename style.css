@@ -23,9 +23,11 @@
     
 }
 /* Jumbotron */
-.jumbotronn {
-    
+.jumbotron {
+    background-image: url('bg.png');
     text-align: center;
+    margin-top: -45;
+    height: 500px;
  
     
 
@@ -33,36 +35,36 @@
 .jumbo {
     padding-top: 40px;
 }
-.jumbotronn .display-4 {
-    color: black;
-    font-size: 25px;
+.jumbotron .display-4 {
+    color: #692ECA;
+    font-size: 20px;
     font-weight: bold;
     text-shadow: 1px 1px 1px rgb(255, 255, 255);
-    margin-top: 100px;
+    margin-top:40px;
     font-family: 'Merienda One', cursive;
 }
-.jumbotronn .display-4 span {
+.jumbotron .display-4 span {
     font-weight: 500;
 }
-.jumbotronn .peran {
-    color: black;
+.jumbotron .peran {
+    color: #692ECA;
     text-align: center;
     font-size: 20px;
     font-weight: 600;
     text-shadow: 1px 1px 1px rgb(255, 255, 255);
     margin-bottom: 20px;
-    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Merienda One', cursive;
     padding-left: 20px;
     padding-right: 20px;
 }
-.jumbotronn h2 {
-    color: black;
+.jumbotron h2 {
+    color: #2BB362;
     text-align: center;
     font-size: 28px;
     font-weight:bold;
     text-shadow: 1px 1px 1px rgb(255, 255, 255);
     font-family: 'Staatliches', cursive;
-    margin-top: -20px;
+    margin-top: 20px;
     padding-bottom: 50px;
 }
 
@@ -228,32 +230,33 @@
     margin-bottom: -8px;
 }
 .jumbotron {
-    background-image: url(mikes.png);
+    background-image: url(bg.png);
     background-size: cover;
-    height: 780px;
+    height: 1000px;
     margin-top: -75px;
 }
 .jumbo {
     padding-top: 40px;
 }
-.jumbotronn .display-4 {
-    color: rgb(0, 0, 0);
+.jumbotron .display-4 {
+    color: #692ECA;
     text-align: center;
     margin-top: 150px;
-    font-size: 70px;
+    font-size:30px;
     font-weight:bold;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
     font-family: 'Merienda One', cursive;
 }
-.jumbotronn .display-4 span {
+.jumbotron .display-4 span {
     font-weight: 500;
 }
-.jumbotronn .peran {
-    color: rgb(0, 0, 0);
+.jumbotron .peran {
+    color: #692ECA;
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 200;
     text-shadow: 1px 1px 1px rgba(255, 253, 253, 0.7);
+    font-family: 'Merienda One', cursive;
 }
 .tek {
     font-size: 20px;
@@ -273,14 +276,14 @@
 .info-card h5 {
     text-align: center;
 }
-.jumbotronn h2 {
-    color: rgb(0, 0, 0);
+.jumbotron h2 {
+    color: #2BB362;
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     font-weight:bold;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
     font-family: 'Staatliches', cursive;
-    margin-top: -20px;
+    margin-top: 20px;
 }
 .carousel-inner img {
     height: 700px;
